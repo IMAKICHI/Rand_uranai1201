@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/randuranai/StaticResouces/Scenes/SimpleAR_thunder.unity
+    guid: 440ee0e4db76e1f459b5efb6953d8475
+  - enabled: 0
     path: Assets/randuranai/StaticResouces/Scenes/test622.unity
     guid: 6ec55208039b1b34f8cc9e3dd395a270
   - enabled: 0
